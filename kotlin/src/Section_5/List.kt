@@ -49,7 +49,7 @@ fun ImmutableList(){
 /***
  * MutableList
  * 除了继承List
- * 新增 add/addAll, remove/removeAll/removeAt, set, clear, retainAll 等
+ * 新增 add/addAll, remove/removeAll/removeAt, Map, clear, retainAll 等
  */
 fun MutableList(){
 

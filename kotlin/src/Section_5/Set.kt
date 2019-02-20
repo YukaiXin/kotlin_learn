@@ -18,5 +18,10 @@ fun main(args: Array<String>) {
      */
     val set = setOf(1, 1, 2, 3, 3)
     println(" set不可重复  "+set)
+
+    val set1 = mutableSetOf(1 ,2 ,3)
+    println("  puls : "+set1)
+    println("  puls : "+set1.plus(10))
+    println("  puls : "+set1.minus(1))
 }
 
